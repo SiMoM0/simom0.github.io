@@ -4,13 +4,15 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at the [IAS-Lab](https://robotics.dei.unipd.it/), at the [University of Padova](https://phd.dei.unipd.it/). I obtained my Master Degree in *Computer Engineering - Artificial Intelligence and Robotics* in 2023 at the [University of Padova](https://unipd.it/) and my Bachelor Degree in *Computer Engineering* in 2021 at the [University of Padova](https://www.unipd.it/).
+I am a Ph.D. student at the [Department of Information Engineering](https://www.dei.unipd.it/), at the [University of Padova](https://www.unipd.it/). I obtained my Master Degree in *Computer Engineering - Artificial Intelligence and Robotics* in 2023 at the [University of Padova](https://www.unipd.it/) and my Bachelor Degree in *Computer Engineering* in 2021 at the [University of Padova](https://www.unipd.it/).
 
-I also enjoyed developing simple Android apps and published them on the [Play Store](https://play.google.com/store/apps/dev?id=9156799026580612705).
+I also developed simple Android apps and published them on the [Play Store](https://play.google.com/store/apps/dev?id=9156799026580612705).
 
 ## Research Interests
 
-- **3D Perception:** 3D Semantic Segmentation, Point Cloud
+My research focuses on **3D perception**, with particular interest in 3D reconstruction and 3D data interpretation for autonomous vehicles and UAVs.
+
+<!-- **3D Perception:** 3D Semantic Segmentation, Point Cloud -->
 <!-- - **Deep Learning:** semantic segmentation, classification -->
 
 ## News
