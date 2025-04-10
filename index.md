@@ -17,6 +17,7 @@ My research focuses on **3D perception**, with particular interest in 3D reconst
 
 ## News
 
+- **[Nov. 2024]** I started my PhD in Computer Vision and Robotics at [DEI](https://www.dei.unipd.it/) UniPD.
 - **[Jul. 2024]** Our paper [WaffleAndRange](https://arxiv.org/pdf/2410.10510) is accepted at [IROS 2024](http://iros2024-abudhabi.org/).
 - **[Feb. 2024]** Post-graduate Research Fellowship at [IAS-Lab](https://robotics.dei.unipd.it/).
 <!-- - **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore! -->
