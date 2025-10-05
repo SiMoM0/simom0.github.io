@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at the [Department of Information Engineering](https://www.dei.unipd.it/), at the [University of Padova](https://www.unipd.it/). I obtained my Master Degree in *Computer Engineering - Artificial Intelligence and Robotics* in 2023 at the [University of Padova](https://www.unipd.it/) and my Bachelor Degree in *Computer Engineering* in 2021 at the [University of Padova](https://www.unipd.it/).
+I am a Ph.D. student at the [Department of Information Engineering](https://www.dei.unipd.it/), at the [University of Padova](https://www.unipd.it/), under supervision of Prof. [Alberto Pretto](https://albertopretto.altervista.org/). I received my Master Degree in *Computer Engineering - Artificial Intelligence and Robotics* in 2023 at the [University of Padova](https://www.unipd.it/) and my Bachelor Degree in *Computer Engineering* in 2021 at the [University of Padova](https://www.unipd.it/).
 
 I also developed simple Android apps and published them on the [Play Store](https://play.google.com/store/apps/dev?id=9156799026580612705).
 
