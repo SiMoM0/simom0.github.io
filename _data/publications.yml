@@ -4,7 +4,7 @@ main:
     authors: Wanmeng Li, <strong>Simone Mosco</strong>, Daniel Fusaro, Alberto Pretto
     conference_short: IROS
     conference: IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2025
-    pdf: https://simom0.github.io/
+    pdf: https://arxiv.org/pdf/2510.23525
     code: https://github.com/lichonger2/DPGLA
     image: ./assets/img/DPGLA.png
     notes: Oral Presentation
@@ -22,7 +22,7 @@ main:
   - title: "Sentag: A web-based tool for semantic annotation of textual documents"
     authors: Andrea Loreggia, <strong>Simone Mosco</strong>, Alberto Zerbinati
     conference_short: AAAI
-    conference: Proceedings of the AAAI Conference on Artificial Intelligence, 2022
+    conference: AAAI Conference on Artificial Intelligence (AAAI), 2022
     pdf: https://arxiv.org/pdf/2110.15062
     code: https://github.com/AlbertoZerbinati/sentag
     image: ./assets/img/sentag.png
