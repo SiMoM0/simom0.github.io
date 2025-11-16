@@ -1,5 +1,13 @@
 main:
 
+  - title: "Revisiting Retentive Networks for Fast Range-View 3D LiDAR Semantic Segmentation"
+    authors: <strong>Simone Mosco</strong>, Daniel Fusaro, Wanmeng Li, Alberto Pretto
+    conference_short: WACV
+    conference: IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), 2026
+    pdf: https://simom0.github.io/
+    code: https://github.com/SiMoM0/RangeRet
+    image: ./assets/img/RangeRet.png
+
   - title: "DPGLA: Bridging the Gap between Synthetic and Real Data for Unsupervised Domain Adaptation in 3D LiDAR Semantic Segmentation"
     authors: Wanmeng Li, <strong>Simone Mosco</strong>, Daniel Fusaro, Alberto Pretto
     conference_short: IROS
