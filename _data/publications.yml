@@ -7,6 +7,7 @@ main:
     pdf: https://simom0.github.io/
     code: https://github.com/SiMoM0/RangeRet
     image: ./assets/img/RangeRet.png
+    notes: Round 1 (6.4% = 85/1329)
 
   - title: "DPGLA: Bridging the Gap between Synthetic and Real Data for Unsupervised Domain Adaptation in 3D LiDAR Semantic Segmentation"
     authors: Wanmeng Li, <strong>Simone Mosco</strong>, Daniel Fusaro, Alberto Pretto

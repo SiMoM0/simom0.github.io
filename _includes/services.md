@@ -1,7 +1,7 @@
 ## Services
 
 
-<h4 style="margin:0 10px 0;">Conference Reviewers</h4>
+<h4 style="margin:0 10px 0;">Conference Reviewer</h4>
 
 <ul style="margin:0 0 5px;">
   <li>IEEE International Conference on Robotics and Automation (ICRA)</li>
@@ -13,7 +13,7 @@
   -->
 </ul>
 
-<h4 style="margin:0 10px 0;">Journal Reviewers</h4>
+<h4 style="margin:0 10px 0;">Journal Reviewer</h4>
 
 <ul style="margin:0 0 20px;">
   <li>IEEE Robotics & Automation Magazine (RAM)</li>
