@@ -4,7 +4,7 @@ main:
     authors: <strong>Simone Mosco</strong>, Daniel Fusaro, Wanmeng Li, Alberto Pretto
     conference_short: WACV
     conference: IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), 2026
-    pdf: https://simom0.github.io/
+    pdf: https://openaccess.thecvf.com/content/WACV2026/papers/Mosco_Revisiting_Retentive_Networks_for_Fast_Range-View_3D_LiDAR_Semantic_Segmentation_WACV_2026_paper.pdf
     code: https://github.com/SiMoM0/RangeRet
     image: ./assets/img/RangeRet.png
     notes: Round 1 (6.4% = 85/1329)
