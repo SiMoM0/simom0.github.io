@@ -1,5 +1,14 @@
 main:
 
+  - title: "Learning to Identify Out-of-Distribution Objects for 3D LiDAR Anomaly Segmentation"
+    authors: <strong>Simone Mosco</strong>, Daniel Fusaro, Alberto Pretto
+    conference_short: CVPR
+    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2026
+    pdf: https://simom0.github.io/#
+    code: https://github.com/SiMoM0/LIDO
+    image: ./assets/img/cvpr26.png
+    page: https://simom0.github.io/lido-page/
+
   - title: "Revisiting Retentive Networks for Fast Range-View 3D LiDAR Semantic Segmentation"
     authors: <strong>Simone Mosco</strong>, Daniel Fusaro, Wanmeng Li, Alberto Pretto
     conference_short: WACV

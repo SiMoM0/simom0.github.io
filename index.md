@@ -17,7 +17,7 @@ My research focuses on **3D Vision**, with particular interest in 3D Scene Under
 
 ## News
 
-- **[Feb, 2026]** Our paper on LiDAR Anomaly Segmentation is accepted to [CVPR 2026](https://cvpr.thecvf.com/)
+- **[Feb, 2026]** Our paper [LIDO](https://simom0.github.io/lido-page/) is accepted to [CVPR 2026](https://cvpr.thecvf.com/)
 - **[Sep, 2025]** Our paper [RangeRet](https://github.com/SiMoM0/RangeRet) is accepted to [WACV 2026](https://wacv.thecvf.com/) (first-round acceptance).
 - **[Jul, 2025]** Two papers are accepted to [IROS 2025](https://www.iros25.org/) and [ECMR 2025](https://ecmr2025.dei.unipd.it/).
 - **[Jun, 2025]** We received an Honorable Mention Award at CVPR 25 [Building3D Challenge](https://usm3d.github.io/). 
