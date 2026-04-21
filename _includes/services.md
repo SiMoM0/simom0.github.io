@@ -5,6 +5,7 @@
 
 <ul style="margin:0 0 5px;">
   <li>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)</li>
+  <li>European Conference on Computer Vision (ECCV)</li>
   <li>IEEE International Conference on Robotics and Automation (ICRA)</li>
   <li>IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)</li>
   <li>European Conference on Mobile Robots (ECMR)</li>
